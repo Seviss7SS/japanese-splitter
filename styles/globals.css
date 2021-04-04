@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+textarea {
+  min-height: 40vh;
+  border: 1px solid black;
+}
